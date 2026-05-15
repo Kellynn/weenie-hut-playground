@@ -23,6 +23,12 @@ Passsages
 - https://twinery.org/cookbook/terms/terms_passages.html
 - Using the standard passage link you can't have empty text to go to the next passage, so you (click-goto: ?page, "Walk further into the Entrance Hall")[ ] instead
 
+Sugarcube
+- Main page: https://www.motoslave.net/sugarcube/2/
+- Documentation: https://www.motoslave.net/sugarcube/2/docs/#introduction
+
+TweeGo
+- https://www.motoslave.net/tweego/
 
 Concerns
 - I accidentally deleted a passage and you can't undo????
